@@ -8,4 +8,6 @@
 **Décision** : à quel prix par nuit proposer mon logement, selon l'arrondissement,
 le type de logement et la capacité.
 
-Données : Inside Airbnb (CC BY 4.0), relevé du 19/09/2026.
+Données : Inside Airbnb (CC BY 4.0), relevé du 19/09/2026
+
+noua avons lancer  python -m streamlit skills
