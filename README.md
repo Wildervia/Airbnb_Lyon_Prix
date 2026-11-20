@@ -1,6 +1,10 @@
 # Airbnb_Lyon_Prix
 
+**Deployer** : https://airbnblyonprix-opmomwhk6jvzo2yrvjc5hs.streamlit.app/
+
 **Utilisateur** : un propriétaire qui met son appartement en location.
+
+
 **Décision** : à quel prix par nuit proposer mon logement, selon l'arrondissement,
 le type de logement et la capacité.
 
